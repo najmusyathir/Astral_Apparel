@@ -48,7 +48,77 @@ p {
         width: auto;
     }
 
-    .logo {}
+    .ic_more {
+        position: relative;
+
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        :hover {
+            cursor: pointer;
+        }
+
+        input {
+            display: none;
+        }
+
+        img {
+            width: 60%;
+        }
+
+        label {
+            display: flex;
+            justify-content: center;
+        }
+
+        .more_nav {
+            position: absolute;
+            top: calc(6vh + 10px);
+            right: calc(-9px);
+            width: 10vw;
+            padding: 0 20px;
+            display: none;
+            background: white;
+            border: 1px #000 solid;
+
+            flex-direction: column;
+            text-align: center;
+
+
+            >* {
+                padding: 1vh 0;
+                border-bottom: 1px solid #000;
+            }
+
+            a {
+                color: black;
+                text-decoration: none;
+                transition: 300ms;
+            }
+
+            a:nth-last-child(1) {
+                border: 0;
+            }
+
+            a:hover {
+                background: #00000022;
+                scale: 1.05;
+            }
+
+        }
+
+
+        #nav_show_more:checked+.more_nav {
+
+            display: flex;
+        }
+
+
+
+
+    }
 
 
 }
