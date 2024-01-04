@@ -1,0 +1,9 @@
+.main {
+    position: absolute;
+    display: flex;
+
+    >* {
+        background: black;
+        height: 100px;
+    }
+}
