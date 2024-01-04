@@ -1,0 +1,122 @@
+{
+    "Abaya": [
+      {
+        "name": "Beige Bisht Abaya",
+        "price": "RM 220",
+        "img": "../assets/Beige Bisht Abaya.jpeg"
+      },
+      {
+        "name": "Blanca Abaya",
+        "price": "RM 235",
+        "img": "../assets/Blanca Abaya.jpeg"
+      },
+      {
+        "name": "Dantel Abaya Camel",
+        "price": "RM 210",
+        "img": "../assets/Dantel Abaya Camel.jpeg"
+      },
+      {
+        "name": "Dorada Abaya",
+        "price": "RM 245",
+        "img": "../assets/Dorada Abaya.jpeg"
+      },
+      {
+        "name": "Plum Abaya",
+        "price": "RM 225",
+        "img": "../assets/Plum Abaya.jpeg"
+      },
+      {
+        "name": "Faris Abaya",
+        "price": "RM 230",
+        "img": "../assets/Faris Abaya.jpeg"
+      },
+      {
+        "name": "Vinous Red Abaya",
+        "price": "RM 205",
+        "img": "../assets/Vinous Red Abaya.jpeg"
+      },
+      {
+        "name": "Sahm Abaya Ivy Green",
+        "price": "RM 200",
+        "img": "../assets/Sahm Abaya Ivy Green.jpeg"
+      },
+      {
+        "name": "Sakhra Abaya Sage",
+        "price": "RM 240",
+        "img": "../assets/Sakhra Abaya Sage.jpeg"
+      }
+    ],
+    "Maxi_Dress": [
+      {
+        "name": "Camel Maxi Dress",
+        "price": "RM 185",
+        "img": "../assets/Camel Maxi Dress.jpeg"
+      },
+      {
+        "name": "Cordora Stitch Maxi Dress",
+        "price": "RM 165",
+        "img": "../assets/Cordora Stitch Maxi Dress.jpeg"
+      },
+      {
+        "name": "Crimson Leaf Maxi Dress",
+        "price": "RM 175",
+        "img": "../assets/Crimson Leaf Maxi Dress.jpeg"
+      },
+      {
+        "name": "Embossed Purple Maxi Dress",
+        "price": "RM 195",
+        "img": "../assets/Embossed Purple Maxi Dress.jpeg"
+      },
+      {
+        "name": "Flowery Maxi Dress",
+        "price": "RM 155",
+        "img": "../assets/Flowery Maxi Dress.jpeg"
+      },
+      {
+        "name": "Gris Maxi Dress",
+        "price": "RM 180",
+        "img": "../assets/Gris Maxi Dress.jpeg"
+      },
+      {
+        "name": "Lavengre Maxi Dress",
+        "price": "RM 170",
+        "img": "../assets/Lavengre Maxi Dress.jpeg"
+      },
+      {
+        "name": "Magnolia Maxi Dress",
+        "price": "RM 190",
+        "img": "../assets/Magnolia Maxi Dress.jpeg"
+      },
+      {
+        "name": "Mini Floral Maxi Dress",
+        "price": "RM 200",
+        "img": "../assets/Mini Floral Maxi Dress.jpeg"
+      },
+      {
+        "name": "Moon Flower Maxi Dress",
+        "price": "RM 150",
+        "img": "../assets/Moon Flower Maxi Dress.jpeg"
+      },
+      {
+        "name": "Sandstorm Maxi Dress",
+        "price": "RM 175",
+        "img": "../assets/Sandstorm Maxi Dress.jpeg"
+      },
+      {
+        "name": "Soft Peach Maxi Dress",
+        "price": "RM 160",
+        "img": "../assets/Soft Peach Maxi Dress.jpeg"
+      },
+      {
+        "name": "Soft Pink Belted Maxi Dress",
+        "price": "RM 185",
+        "img": "../assets/Soft Pink Belted Maxi Dress.jpeg"
+      },
+      {
+        "name": "Yoru Black Maxi Dress",
+        "price": "RM 195",
+        "img": "../assets/Yoru Black Maxi Dress.jpeg"
+      }
+    ]
+  }
+  
