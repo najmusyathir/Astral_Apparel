@@ -1,4 +1,54 @@
 body {
     width: 100vw;
     height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size: 8vh;
+}
+
+h2 {
+    font-size: 6vh;
+}
+
+h3 {
+    font-size: 5vh;
+}
+
+h4 {
+    font-size: 4vh;
+}
+
+h5 {
+    font-size: 3vh;
+}
+
+h6 {
+    font-size: 2vh;
+}
+
+p {
+    font-size: 2vw;
+}
+
+.navbar {
+    width: calc(100vw - 20px);
+    height: 6vh;
+    background: #DBDEE9;
+    padding: 10px;
+    font-family: 'Bad Script', cursive;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    img {
+        height: 100%;
+        width: auto;
+    }
+
+    .logo {}
+
+
 }
