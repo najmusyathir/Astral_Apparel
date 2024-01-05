@@ -5,10 +5,91 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Our Products</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/products.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Bad+Script&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
+    <div class="navbar">
+        <img src="../assets/logo.svg" alt="logo.svg" class="logo">
+        <p> Astral Apparel </p>
 
+        <div class="ic_more">
+
+            <input type="checkbox" id="nav_show_more">
+
+            <div class="more_nav">
+                <a href="./index.html">Home</a>
+                <a href="./about_us.html">About Us</a>
+                <a href="./products.html">Our Products</a>
+                <a href="./contact_us.html">Contact Us</a>
+            </div>
+            <label for="nav_show_more">
+                <img src="../assets/ic_more.svg" alt="more.svg">
+            </label>
+
+        </div>
+
+    </div>
+
+    <div class="main">
+        <div class="page_view">
+            <h1 class="title">
+                Products
+            </h1>
+
+            <div class="product_container">
+                <div class="maxi_title">
+                    <p class="h2">
+                        Maxi Dress
+                </div>
+
+                <div class="grid3xn" id="dress_container">
+                </div>
+
+            </div>
+
+            <div class="product_container">
+                <div class="maxi_title">
+
+                    <p class="h2">
+                        Abaya
+                </div>
+                <div class="grid3xn" id="abaya_container">
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <footer>
+        <div class="flex_row" id="footer_child">
+            <div class="claims">
+                © Astral Apparels, 2024
+            </div>
+
+            <img src="../assets/logo.svg" alt="logo.svg" class="logo">
+            <div class="href">
+                <div class="flex_row">
+                    <a href="./index.html">Home</a>
+                    <a href="./about_us.html">About Us</a>
+                    <a href="./products.html">Our Products</a>
+                    <a href="./contact_us.html">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../scripts/scripts.js"></script>
 </body>
 
 </html>
