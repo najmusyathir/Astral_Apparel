@@ -6,6 +6,11 @@
     display: none;
 }
 
+a {
+    color: #000;
+    text-decoration: none;
+}
+
 p {
     max-width: 65ch;
     font-family: 'Bad Script', cursive;
