@@ -2,26 +2,15 @@
     position: relative;
     display: flex;
     height: calc(100vh - (6vh + 24px));
+    width: 100vw;
 
-    :nth-child(1) {
-        width: 30vw;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
 
-    :nth-child(2) {
-        width: 70vw;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
 }
 
 
 .video_content {
     max-height: 100%;
-    padding: 10px 40px;
+    padding: 4vh 4vw;
 
     >* {
         max-height: 80%;
@@ -30,18 +19,20 @@
 }
 
 .about_content {
-    min-width: 70%;
-    height: 100%;
+    position: relative;
+    height: calc(100vh - 30vh);
+    width: 70vw;
+    margin: 1vh 5vw;
+    top: 2vh;
 
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 
-    >* {
-        min-width: 100%;
-        border: 4px dashed #B78F83;
+    border: 4px dashed #B78F83;
 
-        padding: 20px;
+    p {
+        max-width: 100ch;
     }
-
 }
