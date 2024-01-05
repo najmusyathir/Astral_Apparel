@@ -1,7 +1,7 @@
 .main {
     position: relative;
     display: flex;
-    height: calc(100vh - (6vh + 24px));
+    height: calc(100vh - (16vh + 24px));
     width: 100vw;
 
 

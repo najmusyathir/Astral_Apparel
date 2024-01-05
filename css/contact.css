@@ -1,5 +1,6 @@
 .main {
-    height: calc(100vh - 6vh - 20px);
+    position: relative;
+    height: calc(100vh - 16vh - 20px);
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -8,7 +9,7 @@
     .flex_row {
         margin: 5vh 0;
         width: 80%;
-        height: 70%;
+        height: 85%;
         position: relative;
     }
 
@@ -81,7 +82,6 @@
     align-self: center;
 
     position: relative;
-    top: 8vh;
 
     display: flex;
     align-items: center;
